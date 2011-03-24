@@ -3989,9 +3989,3 @@
 		<edge id="1061" source="100" target="194">
 			<data key="weight">1</data>
 			<data key="netID">AB</data></edge></graph></graphml>
-a>
-			<data key="netID">AB</data></edge>
-		<edge id="1058" source="94" target="190">
-			<data key="weight">1</data>
-			<data key="netID">AB</data></edge>
-		<edge id="1059" source="98"
